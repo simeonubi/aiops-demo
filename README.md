@@ -100,6 +100,6 @@ stress-ng --cpu 2 --timeout 120s
 
 ## 🎉 Credits
 
-Developed by **Rajinikanth Vadla** © 2025. All rights reserved.
+**Rajinikanth Vadla**
 
 Enjoy your AIOps journey! 🚀
